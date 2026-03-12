@@ -1,5 +1,1 @@
-import os
 
-TOKEN = os.getenv("TOKEN")
-
-WELCOME_CHANNEL_ID = 1481760045539786956
