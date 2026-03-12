@@ -1,0 +1,5 @@
+import os
+
+TOKEN = os.getenv("TOKEN")
+
+WELCOME_CHANNEL_ID = 123456789012345678
