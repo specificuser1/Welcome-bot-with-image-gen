@@ -1,4 +1,10 @@
-discord.py
-pillow
-aiohttp
-python-dotenv
+# Discord Bot
+discord.py==2.3.2
+python-dotenv==1.0.0
+
+# Image Processing
+Pillow==10.2.0
+aiohttp==3.9.3
+
+# Utilities
+asyncio
